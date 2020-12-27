@@ -1,0 +1,58 @@
+body {
+    font-family: tahoma;
+    font-size: 14px;
+    font-style: normal;
+}
+a {
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+}
+ul {
+    color: aliceblue;
+}
+.header {
+    width: 970px;
+    height: 213px;
+    background-image: url(pic.jpg);
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #404;
+    border-radius: 20px;
+}
+.main{
+    direction: rtl;
+    width: 980px;
+    margin: 5px auto;
+}
+.content {
+    background-color: #404;
+    width: 735px;
+    height: 420px;
+    margin-left: 6px;
+    margin-top: 6px;
+    float: left;
+    overflow: auto;
+    border: 1px solid #404;
+    border-radius: 20px;
+}
+.menu {
+    background-color: #404;
+    width: 220px;
+    height: 420px;
+    margin: 6px 6px 6px 0;
+    float: right;
+    border: 1x solid #404;
+    border-radius: 20px;
+}
+.footer {
+    background-color: #404;
+    width: 970px;
+    height: 50px;
+    margin: 440px auto;
+    text-align: center;
+    line-height: 50px;
+    font: regulr 15px "tahoma";
+    border-radius: 20px;
+}
